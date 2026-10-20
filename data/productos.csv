@@ -1,0 +1,6 @@
+﻿id_producto,nombre_producto,categoria,costo_unitario
+101,Notebook,Computacion,650000
+102,Mouse,Accesorios,12000
+103,Monitor,Computacion,210000
+104,Teclado,Accesorios,38000
+105,Auriculares,Audio,26000

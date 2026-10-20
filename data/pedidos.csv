@@ -1,0 +1,9 @@
+﻿id_pedido,id_cliente,fecha_pedido,estado
+1001,2,2026-01-03,Entregado
+1002,1,2026-01-07,Entregado
+1003,3,2026-02-10,Entregado
+1004,1,2026-02-15,Entregado
+1005,4,2026-03-04,Entregado
+1006,5,2026-03-12,Entregado
+1007,2,2026-03-20,Entregado
+1008,3,2026-03-25,Cancelado
